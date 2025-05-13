@@ -49,3 +49,4 @@ AegisLexica/
 ## Contribution Guidelines
 
  
+(Will be outlined in contributing.md)
