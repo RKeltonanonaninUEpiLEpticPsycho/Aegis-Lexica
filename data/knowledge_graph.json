@@ -1,0 +1,26 @@
+
+```json
+{
+    "vermin": {
+        "counter_concepts": ["human beings", "individuals", "people"],
+        "rights_violated": ["inherent dignity", "equal rights"]
+    },
+    "disease": {
+        "counter_concepts": ["people with health conditions", "individuals deserving care"],
+        "rights_violated": ["right to health", "right to non-discrimination"]
+    },
+    "subhuman": {
+        "counter_concepts": ["fully human", "individuals with equal worth"],
+        "rights_violated": ["inherent dignity", "equality before the law"]
+    },
+    "animalistic": {
+        "counter_concepts": ["beings capable of complex thought and emotion", "individuals with unique experiences"],
+        "rights_violated": ["inherent dignity", "right to respect"]
+    },
+    "creature": {
+        "counter_concepts": ["person", "human being", "individual"],
+        "rights_violated": ["inherent dignity"]
+    }
+    // You can add more mappings here in the future
+}
+```
